@@ -9,7 +9,7 @@ I'm a passionate developer who loves creating web applications and exploring new
 - 👯 I’m looking to collaborate on **Open Source Projects** that make a difference.
 - 🤔 I’m looking for help with **Machine Learning** integration in web apps.
 - 💬 Ask me about **JavaScript**, **React**, **APIs**, and more!
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](tellezkenny08@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 - 😄 Pronouns: He/Him | She/Her
 - ⚡ Fun fact: I love hiking and have climbed over 15 mountains!
 
