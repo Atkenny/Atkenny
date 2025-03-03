@@ -20,11 +20,6 @@ I'm a passionate developer who loves creating web applications and exploring new
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
-### 📊 GitHub Stats
-
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ---
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
