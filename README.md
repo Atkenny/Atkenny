@@ -7,7 +7,6 @@ Ingeniero apasionado por el desarrollo de aplicaciones robustas, escalables y se
 
 ### 🚀 Proyectos Actuales
 * **[O Not Pass](http://o-not-pass.vercel.app/)**: Un gestor de contraseñas (PWA) de alto rendimiento enfocado en la seguridad y optimización con Firebase.
-* **Rapiditos**: Desarrollo de plataforma de delivery tipo "Rappi" con React Native y Expo.
 
 ---
 
@@ -27,9 +26,6 @@ Ingeniero apasionado por el desarrollo de aplicaciones robustas, escalables y se
 <p align="left">
 <a href="http://www.github.com/Atkenny">
   <img src="https://github-readme-stats.vercel.app/api?username=Atkenny&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Kenny's Stats" height="150" />
-</a>
-<a href="http://www.github.com/Atkenny">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atkenny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" />
 </a>
 </p>
 
