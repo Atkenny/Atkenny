@@ -1,29 +1,51 @@
-¡Hola! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Me llamo Kenny Alegria
-======================================================================================================================================
+# Hi! My name is Kenny Alegría 👋
+### Ingeniero en Sistemas de la Información | Full Stack Developer
 
-Ingeniero en Sistemas de la Información
----------------------------------------
+Ingeniero apasionado por el desarrollo de aplicaciones robustas, escalables y seguras. Con base en Nicaragua, me especializo en construir soluciones modernas utilizando el ecosistema de **JavaScript/TypeScript**, **Java** y arquitecturas **Cloud**.
 
-* 🌍 Estoy radicado en Nicaragua - Boaco - San Lorenzo
-* ✉️ Puedes contactarme en [tellezkenny08@gmail.com](mailto:tellezkenny08@gmail.com)
-* 🚀 Actualmente estoy trabajando en [O Not Pass](http://o-not-pass.vercel.app/)
+---
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" título="Java" ancho="36" altura="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" título="JavaScript" ancho="36" altura="36" /></a><a href="https://www.typescriptlang.org/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" título="TypeScript" ancho="36" altura="36" /></a><a href="https://www.python.org/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" título="Python" ancho="36" altura="36" /></a><a href="https://spring.io/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Bota de muelle" título="Boot de muelle" ancho="36" altura="36" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" título="VS Código" ancho="36" altura="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" título="HTML5" ancho=" 36" altura="36" /></a><a href="https://reactjs.org/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" título="React" ancho="36" altura="36" /></a><a href="https://tailwindcss.com/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" título="TailwindCSS" ancho="36" altura="36" /></a><a href="https://www.w3.org/TR/CSS/#css" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" título="CSS3" ancho="36" altura="36" /> </a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height=" 36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" título="Firebase" ancho="36" altura="36" /></a><a href="https://supabase.io/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" título="Supabase" ancho="36" altura="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" título="Figma" ancho="36" altura="36" /></a><a href="https://cloud.google.com/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" título="Google Cloud" ancho="36" altura="36" /></a> </p>
-### Sociales <p align="left"> <a href="https://www.github.com/Atkenny" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <fuente media="(prefiere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" ancho="32" altura="32" alt="GitHub" título="GitHub" /> </foto> </a> <a href="https://www.linkedin.com/in/kenny-antonio-téllez-obando-1473b6238" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <fuente media="(prefieres-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </foto> </a> <a href="https://www.facebook.com/kennyantonio.tellezobando" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <fuente media="(prefiere-color-esquema: luz)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" ancho="32" altura="32" alt="Facebook" título="Facebook" /> </foto> </a> <a href="https://kenny-alegría" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <fuente media="(prefieres-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" alt="RSS" title="RSS" /> </foto> </a></p>
-<a href="https://www.github.com/Atkenny" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Atkenny?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Insignias
+### 🚀 Proyectos Actuales
+* **[O Not Pass](http://o-not-pass.vercel.app/)**: Un gestor de contraseñas (PWA) de alto rendimiento enfocado en la seguridad y optimización con Firebase.
+* **Rapiditos**: Desarrollo de plataforma de delivery tipo "Rappi" con React Native y Expo.
 
-<b>Mis estadísticas de GitHub</b>
+---
 
-<a href="http://www.github.com/Atkenny"><img src="https://github-readme-stats.vercel.app/api?username=Atkenny&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Atkenny's GitHub stats" /></a>
+### 🛠️ My Tech Stack
 
-<a href="http://www.github.com/Atkenny"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atkenny&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat-square) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| **Mobile & Dev** | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=flat-square) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
+| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) |
 
-### Apóyame
+---
 
-<ul style="tipo-lista-estilo: ninguno; margen: 0;" >
+### 📊 GitHub Stats
+<p align="left">
+<a href="http://www.github.com/Atkenny">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atkenny&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Kenny's Stats" height="150" />
+</a>
+<a href="http://www.github.com/Atkenny">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atkenny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" />
+</a>
+</p>
 
-<li style="display: inline-block; margen-derecha: 0,25rem;" ><a href="https://www.ko-fi.com/kenny_alegria"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+---
 
-</UL>
+### 📫 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/kenny-antonio-téllez-obando-1473b6238" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tellezkenny08@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ☕ Support My Work
+<a href="https://www.ko-fi.com/kenny_alegria"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
