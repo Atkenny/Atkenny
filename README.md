@@ -6,7 +6,7 @@ Ingeniero apasionado por el desarrollo de aplicaciones robustas, escalables y se
 ---
 
 ### 🚀 Proyectos Actuales
-* **[O Not Pass](http://o-not-pass.vercel.app/)**: Un gestor de contraseñas (PWA) de alto rendimiento enfocado en la seguridad y optimización con Firebase.
+* **[O Not Pass](http://onotpass.vercel.app/)**: Un gestor de contraseñas (PWA) de alto rendimiento enfocado en la seguridad y optimización con Firebase.
 
 ---
 
